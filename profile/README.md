@@ -1,12 +1,39 @@
-## Hi there 👋
+## Laboratorio de Transformación Digital - UDH
 
-<!--
+Bienvenido al repositorio del **Laboratorio de Transformación Digital** de la Universidad de Huánuco.
 
-**Here are some ideas to get you started:**
+### 🚀 Sobre Nosotros
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+El Laboratorio de Transformación Digital de la Universidad de Huánuco es un espacio de innovación dedicado a impulsar la transformación tecnológica y digital en la región. Nuestro objetivo es desarrollar soluciones tecnológicas que mejoren procesos académicos, administrativos y de investigación.
+
+### 🔧 Proyectos Principales
+- Desarrollo de software
+- Inteligencia artificial
+- Proyectos de investigación
+- Inpulsor de Transformación digital
+
+### 🤝 Contribuciones
+Estamos abiertos a colaboraciones de:
+- Estudiantes
+- Investigadores
+- Profesionales en tecnología
+- Miembros de la comunidad universitaria
+
+### 🌟 Lenguajes de programación
+- Python
+- JavaScript
+- PHP
+- Java
+
+### 💱 Frameworks
+- Laravel
+- Vue.js
+- Flutter
+- Angular
+
+### 📫 Contacto
+- **Correo:** transformaciondigital@udh.edu.pe
+- **Ubicación:** Ciudad Universitaria - La esperanza
+
+### ⚖️ Licencia
+Prohibida la comercialización de nuestros proyectos sin autorización previa.
